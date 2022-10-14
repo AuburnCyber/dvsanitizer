@@ -1,0 +1,5 @@
+*.csv
+*.zip
+*.7z
+ballot-images-1/**
+ballot-images-2/**
